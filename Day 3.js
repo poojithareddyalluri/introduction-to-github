@@ -51,6 +51,7 @@ var person = {
 
 For all the objects the memory will be allocated in the Heap Memory
 
+// poojitha reddy trialing
 
 Javascript Objects can be created in two ways.
 1)
